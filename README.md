@@ -1,6 +1,8 @@
 # CMSC715-IoT
 A git repository for code and data for our IoT Project - Continuous Glucose Monitoring using EEG Signals from a MUSE.
 
+The report for our project can be found here - https://drive.google.com/file/d/1aKTOg4X2NrkQCNvS5aPaPvqunVEBkX2W/view?usp=sharing.
+
 # Dataset
 The dataset can be downloaded from the drive link below.
 
