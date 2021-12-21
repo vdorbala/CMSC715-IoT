@@ -155,7 +155,7 @@ def main():
   samples = []
   list_array_samples = []
   for target_id, target in enumerate(target_glucose_levels):
-    data_txt = open(cwd + '\CMSC715-IoT\labeled_muse/' + target + '_samples' , "r")
+    data_txt = open(cwd + '\CMSC715-IoT\labeled_muse/' + target + '_0' , "r")
     lines = data_txt.readlines()
     data = np.zeros((len(lines)-1, 4))
 
